@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+    background-position: cover;
+}
+.h1 {
+    width: 99%;
+    font-size: 25px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+canvas{
+    border-radius: 15px;
+    border: 7px solid beige;
+    background-color: #000000;
+    box-shadow: 5px 5px 5px #5500ff;
+    margin-top: 250px;
+}
+#status, #status_final{
+    font-size: 18px;
+    margin-top: 15px;
+}
+.head_3{
+   font-size: 15px;
+   color: black;
+   margin-top: 5px;
+}
+#input{
+    margin-top: 10px;
+    width: 25%;
+    height: 40px;
+    border-radius: 5px;
+    background-color: white;
+}
+#input:hover{
+    background-color: rgba(255, 255, 255, 0.75);
+}
+.btn-success {
+    font-size: 18px;
+    margin-top: 20px;
+}
